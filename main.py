@@ -1,7 +1,5 @@
 import cv2
-import numpy as np
 import pytesseract
-from PIL import Image
 from dotenv import load_dotenv
 import re
 import os
